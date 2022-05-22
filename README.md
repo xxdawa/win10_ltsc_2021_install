@@ -2,10 +2,10 @@
 Windows 10 Enterprise LTSC 2021 体验
 
 # Windows 10 Enterprise LTSC 2021 镜像文件获取
-zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso    文件大小4.7G    64位简体中文版下载地址：
+zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso     文件大小4.7G     64位简体中文版下载地址：
 https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso
 
-en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso    文件大小4.6G   64位英文版下载地址：
+en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso     文件大小4.6G     64位英文版下载地址：
 https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso
 
 # 使用下载的镜像文件，创建USB可启动安装盘
