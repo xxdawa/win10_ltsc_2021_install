@@ -23,6 +23,7 @@ https://objects.githubusercontent.com/github-production-release-asset-2e65be/281
 KMS激活有效期180天，到期前再激活可以一直续期
 
 用命令激活示例：
+
 使用管理员权限打开命令提示符，依次执行以下3条命令
 
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D   --安装密钥
