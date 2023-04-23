@@ -35,12 +35,12 @@ slmgr /ato
 # 6、系统初体验
 
 使用发现的两个问题：
-## 1、wsappx进程占用过高 
-## 2、中文输入法不显示候选框
+1、wsappx进程占用过高 
+2、中文输入法不显示候选框
 
 问题原因与解决方法：
 LTSC_2021系统精简掉了VCLibs组件，影响了中文输入法，安装VCLibs库解决。
 
-## 1、首先下载Microsoft.VCLibs组件。进入网站https://store.rg-adguard.net（这个网站可以下载微软应用商店所有应用的离线安装包），第一栏选ProductId，第二栏输入9wzdncrfjbmp，第三栏确保是RP再按勾下载并记住下载文件位置。
+1、首先下载Microsoft.VCLibs组件。进入网站https://store.rg-adguard.net（这个网站可以下载微软应用商店所有应用的离线安装包），第一栏选ProductId，第二栏输入9wzdncrfjbmp，第三栏确保是RP再按勾下载并记住下载文件位置。
 
-## 2、电脑打开powershell安装VCLibs组件。在powershell中输入命令Add-AppxPackage -Path <此为上一步下载的文件路径> 然后按Enter执行，命令示例：Add-AppxPackage -Path C:\Users\你的用户名\桌面\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx 安装完后即可解决上述问题，无需重启，进程占用随即会变成0%，输入法也正常了。
+2、电脑打开powershell安装VCLibs组件。在powershell中输入命令Add-AppxPackage -Path <此为上一步下载的文件路径> 然后按Enter执行，命令示例：Add-AppxPackage -Path C:\Users\你的用户名\桌面\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx 安装完后即可解决上述问题，无需重启，进程占用随即会变成0%，输入法也正常了。
