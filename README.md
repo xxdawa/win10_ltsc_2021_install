@@ -45,7 +45,6 @@ LTSC_2021系统精简掉了VCLibs组件，影响了中文输入法，安装VCLib
 2、使用Powershell命令安装VCLibs组件。
 打开powershell，输入命令 Add-AppxPackage -Path “此处为上一步下载的文件路径”
 然后按Enter执行，命令示例：
-```powershell
-Add-AppxPackage -Path "C:\Users\你的用户名\桌面\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx"
-```
+
+    Add-AppxPackage -Path "C:\Users\你的用户名\桌面\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx"
 安装完后即可解决上述问题，无需重启，wsappx进程占用随即会变成0%，输入法也正常了。
