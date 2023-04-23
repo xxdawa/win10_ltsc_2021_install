@@ -8,7 +8,7 @@ https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20L
 en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso         64位英文版下载地址：
 https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso
 
-# 2、创建USB可启动安装盘（或使用PE工具安装系统）
+# 2、创建USB可启动安装盘
 推荐使用rufus工具，rufus-3.18下载地址
 
 https://objects.githubusercontent.com/github-production-release-asset-2e65be/2810292/6857babf-ea76-483c-bde8-9e000153abeb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220521T231658Z&X-Amz-Expires=300&X-Amz-Signature=7b128a93ea6fc814d67ca0d81458fa464e2333572a183fd87d8b679428f717c1&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=2810292&response-content-disposition=attachment%3B%20filename%3Drufus-3.18.exe&response-content-type=application%2Foctet-stream
