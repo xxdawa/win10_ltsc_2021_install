@@ -42,8 +42,8 @@ LTSC_2021系统精简掉了VCLibs组件，影响了中文输入法，安装VCLib
 1、首先下载Microsoft.VCLibs组件。
 进入网站 https://store.rg-adguard.net 这个网站可以下载微软应用商店所有应用的离线安装包，第一栏选ProductId，第二栏输入9wzdncrfjbmp，第三栏确保是RP再按勾，接着在下方选择Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx下载，或者直接使用如下链接下载：http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1ee8f2d3-cfbe-4514-a83a-5aaadb44df5e?P1=1682217094&P2=404&P3=2&P4=IVamZnjzhIwP%2fSMVVNpTuc8XDSA6K7O3LFJq8MixFJsTDteEqs%2fPTtTWrc4GgQ9y%2bNnw4FqmWPiOiyuBDXpY8A%3d%3d
 
-2、使用Powershell命令安装VCLibs组件。
-打开powershell，输入命令 Add-AppxPackage -Path “此处为上一步下载的文件路径”
+2、使用PowerShell命令安装VCLibs组件。
+打开PowerShell，输入命令 Add-AppxPackage -Path “此处为上一步下载的文件路径”
 然后按Enter执行，命令示例：
 
     Add-AppxPackage -Path "C:\Users\你的用户名\桌面\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx"
