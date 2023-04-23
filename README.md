@@ -22,15 +22,14 @@ https://objects.githubusercontent.com/github-production-release-asset-2e65be/281
 # 5、系统激活
 KMS激活有效期180天，到期前再激活可以一直续期
 
-用命令kms激活示例：
+用命令行kms激活示例：
 
 使用管理员权限打开命令提示符，依次执行以下3条命令
 
-slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D   --安装密钥
+slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D 
 
-slmgr /skms kms.03k.org  --设置KMS服务器
-
-slmgr /ato  --激活
+slmgr /skms kms.03k.org 
+slmgr /ato 
 
 # 6、系统初体验
 
