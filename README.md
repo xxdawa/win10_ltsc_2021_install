@@ -9,7 +9,7 @@ https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20L
 https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso
 
 # 2、创建USB可启动安装盘
-推荐使用rufus工具，文件已提供，或者去官网下载，官网地址：https://rufus.ie/zh/
+推荐使用rufus工具，工具已提供，或者到官网下载，官网地址：https://rufus.ie/zh/
 
 # 3、安装系统
 电脑USB接口插上安装U盘，重新启动电脑，到BIOS界面不停按F12（依据电脑品牌型号不同）直到进入启动菜单选项，选择U盘启动，然后根据界面指引开始安装系统
