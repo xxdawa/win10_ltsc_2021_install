@@ -1,4 +1,4 @@
-# Windows 10 Enterprise LTSC 2021 安装初体验
+# Windows 10 Enterprise LTSC 2021 安装试用体验
 
 ##  1、获取系统镜像文件
 简体中文版下载地址：
